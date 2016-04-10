@@ -1,0 +1,14 @@
+MainHandDps               1.14
+Agility                   1.00
+AttackPower               0.78
+Multistrike               0.69
+Versatility               0.61
+CriticalStrike            0.59
+Mastery                   0.54
+Haste                     0.35
+OffHandDps                0.22
+set 17 2                  auto
+set 17 4                  auto
+set 18 -1                 auto
+set 18 2                  auto
+set 18 4                  auto
